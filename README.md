@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gymk/Cloud-Computing-Course/)
+
 # 1. Cloud Computing
 <!-- TOC -->
 
