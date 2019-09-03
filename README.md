@@ -1,17 +1,17 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gymk/Cloud-Computing-Course/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gymk/Cloud-Computing-Course/) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gymk/Cloud-Computing-Course/master)
 
 # 1. Cloud Computing
 <!-- TOC -->
 
-- [1. Cloud Computing](#1-cloud-computing)
-  - [1.1. INSTRUCTOR BIO](#11-instructor-bio)
-  - [1.2. COURSE LAYOUT](#12-course-layout)
-    - [1.2.1. COURSE TYPE](#121-course-type)
-    - [1.2.2. COURSE LEVEL](#122-course-level)
-  - [1.3. BOOKS AND REFERENCES](#13-books-and-references)
-  - [1.4. COURSE CERTIFICATE](#14-course-certificate)
-    - [1.4.1. CRITERIA TO GET A CERTIFICATE](#141-criteria-to-get-a-certificate)
-    - [1.4.2. ELIGIBILITY FOR A CERTIFICATE](#142-eligibility-for-a-certificate)
+- [Cloud Computing](#cloud-computing)
+  - [INSTRUCTOR BIO](#instructor-bio)
+  - [COURSE LAYOUT](#course-layout)
+    - [COURSE TYPE](#course-type)
+    - [COURSE LEVEL](#course-level)
+  - [BOOKS AND REFERENCES](#books-and-references)
+  - [COURSE CERTIFICATE](#course-certificate)
+    - [CRITERIA TO GET A CERTIFICATE](#criteria-to-get-a-certificate)
+    - [ELIGIBILITY FOR A CERTIFICATE](#eligibility-for-a-certificate)
 
 <!-- /TOC -->
 - Cloud computing is a scalable services consumption and delivery platform that provides on-demand computing service for shared pool of resources, namely servers, storage, networking, software, database, applications etc., over the Internet. It is a model for enabling ubiquitous, on-demand access to a shared pool of configurable computing resources, which can be rapidly provisioned and released with minimal management effort. This course will introduce various aspects of cloud computing, including fundamentals, management issues, security challenges and future research trends. This will help students (both UG and PG levels) and researchers to use and explore the cloud computing platforms.
