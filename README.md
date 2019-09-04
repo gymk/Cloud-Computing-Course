@@ -12,6 +12,7 @@
   - [COURSE CERTIFICATE](#course-certificate)
     - [CRITERIA TO GET A CERTIFICATE](#criteria-to-get-a-certificate)
     - [ELIGIBILITY FOR A CERTIFICATE](#eligibility-for-a-certificate)
+  - [Course Video](#course-video)
 
 <!-- /TOC -->
 - Cloud computing is a scalable services consumption and delivery platform that provides on-demand computing service for shared pool of resources, namely servers, storage, networking, software, database, applications etc., over the Internet. It is a model for enabling ubiquitous, on-demand access to a shared pool of configurable computing resources, which can be rapidly provisioned and released with minimal management effort. This course will introduce various aspects of cloud computing, including fundamentals, management issues, security challenges and future research trends. This will help students (both UG and PG levels) and researchers to use and explore the cloud computing platforms.
@@ -74,3 +75,8 @@ __INDUSTRY SUPPORT__ - IT industries
 - If one of the 2 criteria is not met, you will not get the certificate even if the Final score >= 40/100.
 - Certificate will have your name, photograph and the score in the final exam with the breakup. It will have the logos of NPTEL and IIT Kharagpur. It will be e-verifiable at [nptel.ac.in/noc](https://nptel.ac.in/noc/).
 - Only the e-certificate will be made available. Hard copies are being discontinued from July 2019 semester and will not be dispatched
+
+## 1.5. Course Video
+
+- YouTube <https://www.youtube.com/playlist?list=PLShJJCRzJWxhz7SfG4hpaBD5bKOloWx9J>
+- Downloadable Resources <https://nptel.ac.in/courses/106/105/106105167/>
