@@ -1,5 +1,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gymk/Cloud-Computing-Course/) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gymk/Cloud-Computing-Course/master)
 
+[Jupyter Notebook Viewer (nbviewer) link to browse the notebooks](https://nbviewer.jupyter.org/github/gymk/Cloud-Computing-Course/tree/master/)
+
 # 1. Cloud Computing
 <!-- TOC -->
 
